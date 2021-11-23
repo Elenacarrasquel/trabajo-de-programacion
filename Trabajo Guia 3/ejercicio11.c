@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/*Que rellene un array con los 100 primeros números pares y 
-muestre su suma*/
+/*
+Que rellene un array con los 100 primeros números pares y 
+muestre su suma
+Alumna:Elena Carrasquel.
+*/
 
 int main ()
 {

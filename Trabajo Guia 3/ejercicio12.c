@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-/*Que lea 10 números por teclado, los almacene 
-en un array y muestre la media.*/
+/*
+Que lea 10 números por teclado, los almacene 
+en un array y muestre la media.
+Alumna:Elena Carrasquel.
+*/
 
 int main ()
 {

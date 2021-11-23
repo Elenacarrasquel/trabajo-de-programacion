@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Que rellene un array con los números primos comprendidos entre 1 y 100 y los muestre en pantalla en 
+orden ascendente
+Alumna:Elena Carrasquel.
+*/
+
 int main () {
 
     int numeros[100];
